@@ -1,0 +1,75 @@
+{
+  "total_customers": 7043,
+  "retained_customers": 4357,
+  "churned_customers": 2686,
+  "churn_rate_pct": 38.14,
+  "retention_rate_pct": 61.86,
+  "avg_tenure_months": 25.2,
+  "avg_monthly_charges": 62.77,
+  "total_mrr": 442088.54,
+  "mrr_lost_to_churn": 178644.74,
+  "avg_clv": 2062.56,
+  "contracts": [
+    "Month-to-Month",
+    "One Year",
+    "Two Year"
+  ],
+  "contract_totals": [
+    3806,
+    1740,
+    1497
+  ],
+  "contract_churn_rates": [
+    59.56,
+    20.69,
+    3.94
+  ],
+  "tenure_brackets": [
+    "0-6 Months",
+    "13-24 Months",
+    "25-48 Months",
+    "49-72 Months",
+    "7-12 Months"
+  ],
+  "tenure_churn_rates": [
+    77.02,
+    44.14,
+    16.28,
+    8.37,
+    55.84
+  ],
+  "tenure_totals": [
+    1349,
+    1552,
+    2383,
+    860,
+    899
+  ],
+  "top_reasons": [
+    "Don't need service anymore",
+    "Price increase after promotion",
+    "Competitor offered better pricing",
+    "Competitor offered faster speeds",
+    "Service unreliability / downtime",
+    "Relocation outside coverage zone",
+    "Dissatisfied with support quality"
+  ],
+  "top_reasons_count": [
+    403,
+    394,
+    392,
+    387,
+    386,
+    377,
+    347
+  ],
+  "top_reasons_share": [
+    15.0,
+    14.67,
+    14.59,
+    14.41,
+    14.37,
+    14.04,
+    12.92
+  ]
+}
